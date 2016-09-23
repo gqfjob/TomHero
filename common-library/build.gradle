@@ -1,0 +1,7 @@
+jar {
+    baseName = 'common-library'
+    version = '0.0.1-SNAPSHOT'
+}
+dependencies {
+    compile("org.apache.httpcomponents:httpclient")
+}
