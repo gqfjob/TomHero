@@ -4,7 +4,4 @@ include 'sequence-server'
 include 'sequence-server-backup'
 include 'sequence-client-ribbon'
 include 'sequence-client-feign'
-include 'configure-center'
-include 'chat-server'
-include 'chat-mina'
 
